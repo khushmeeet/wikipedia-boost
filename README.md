@@ -1,2 +1,5 @@
 # wikipedia-boost
-Wikipedia Boost for Arc
+
+Wikipedia Boost for Arc Browser
+
+![Boost Screenshot](screenshot.jpeg)

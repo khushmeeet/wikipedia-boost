@@ -1,0 +1,19 @@
+{
+    "pinned": false,
+    "id": "98e89646-711c-4fcf-991a-eadac517f1da",
+    "scope": "en.wikipedia.org",
+    "installedInProfiles": [
+        {
+            "default": {}
+        }
+    ],
+    "extensionId": "mgknfkmkfhgnjfnaddollmmghoncgnco",
+    "components": {
+        "contentStylesheet": {
+            "path": "styles.css",
+            "enabled": true
+        }
+    },
+    "extensionEnabled": true,
+    "name": "Simplify Wikipedia"
+}

@@ -1,0 +1,27 @@
+body {
+  font-size: 18px;
+}
+
+#mw-head {
+  display: none;
+}
+
+#mw-panel {
+  display: none;
+}
+
+#content {
+  border: none;
+}
+
+#mw-page-base {
+  height:auto !important;
+}
+
+.mw-body {
+  margin-top: 0%;
+  border: none;
+  margin-left: 0em !important;
+}
+
+
